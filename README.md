@@ -31,3 +31,49 @@ It's my personal learning journal for mastering the core pillars of OOP in Java.
 ---
 
 ### Repository Structure
+```text
+University_Lab_Codes-OOP/
+├── Exception_Handling/          # Custom exceptions, try-catch-flow
+├── Dependency/                  # Dependency examples
+├── Bidirectional Association/   # Two-way object relationships
+├── Unidirectional Association/  # One-way relationships
+├── Inheritance_Demos/           # Single, multilevel, hierarchical
+├── Polymorphism_Examples/
+├── Abstraction_Interface/
+├── Encapsulation_Examples/
+├── Practice_Exercises/          # My extra self-practice codes
+├── Assignments/                 # Graded lab assignments
+└── README.md                    # This file
+```
+
+
+---
+
+### What I Learned
+- How real-world entities are modeled using classes and objects
+- The power of **inheritance** and **code reuse**
+- When to use **composition over inheritance**
+- Designing clean, maintainable, and scalable code
+- Handling runtime errors gracefully with exceptions
+- Writing code that follows SOLID principles (as much as possible at this stage!)
+
+> This module made OOP finally "click" for me — from theory to actual working code.
+
+---
+
+### Tools & Environment
+- **Language**: Java (SE 17+)
+- **IDE**: IntelliJ IDEA 
+- **Build Tool**: None (pure Java files)
+
+---
+
+**Proudly built (and debugged) line by line during late-night lab sessions!**
+
+
+---
+**Student Developer**  
+*Software Engineering Undergraduate*  
+*November 2025*
+
+#Java #OOP #ObjectOrientedProgramming #University #CodingJourney #LearnInPublic
