@@ -2,7 +2,7 @@
 **Object-Oriented Programming Module (2025)**  
 *Java Lab Sessions, Practice Codes & Concept Demonstrations*
 
-<img src="https://img.shields.io/badge/Language-Java-blue.svg" alt="Java"> <img src="https://img.shields.io/badge/Module-OOP-brightgreen.svg" alt="OOP"> <img src="https://img.shields.io/badge/Status-Completed-success.svg" alt="Completed">
+
 
 This repository contains **all the Java codes** I wrote during my **Object-Oriented Programming (OOP)** university module — including:
 
